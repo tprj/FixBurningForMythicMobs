@@ -1,0 +1,7 @@
+name: FixBurningForMythicMobs
+version: '${version}'
+main: xyz.tprj.fixburningformythicmobs.FixBurningForMythicMobs
+api-version: 1.16
+authors: [ Toto31010 ]
+depend:
+  - MythicMobs
